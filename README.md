@@ -14,6 +14,9 @@ https://wiki.archlinux.org/index.php/List_of_applications/Security
 IBM
 https://www.ibm.com/developerworks/linux/tutorials/l-harden-desktop/index.html
 
+SYMANTEC
+https://www.symantec.com/blogs/threat-intelligence
+
 CSEC
 https://bitbucket.org/cse-assemblyline/assemblyline/overview
 
