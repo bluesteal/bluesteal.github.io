@@ -32,4 +32,7 @@ https://www.schneier.com/blog/about/
 HACKERNEWS
 https://news.ycombinator.com/
 
+QUBES
+https://www.qubes-os.org/
+
 
