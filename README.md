@@ -1,7 +1,9 @@
 # bluesteal.github.io
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 Security Linx
+
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 ARCH
@@ -29,3 +31,5 @@ https://www.schneier.com/blog/about/
 
 HACKERNEWS
 https://news.ycombinator.com/
+
+
