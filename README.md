@@ -32,6 +32,12 @@ https://www.schneier.com/blog/about/
 HACKERNEWS
 https://news.ycombinator.com/
 
+CLIQZ
+https://cliqz.com/en/
+
+WIREGUARD
+https://www.wireguard.com/
+
 QUBES
 https://www.qubes-os.org/
 
